@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
       <div className="container mx-auto py-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">EShop</h3>
+            <h3 className="text-xl font-bold mb-4">DUYLONG SHOP</h3>
             <p className="text-gray-300">Your one-stop shop for all your needs.</p>
           </div>
           <div>
@@ -45,7 +45,7 @@ export const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-300">
-          <p>&copy; 2024 EShop. All rights reserved.</p>
+          <p>&copy; 2024 DUYLONG SHOP. All rights reserved.</p>
         </div>
       </div>
     </AntFooter>

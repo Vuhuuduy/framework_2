@@ -13,7 +13,7 @@ export const Navbar: React.FC = () => {
     <Header className="bg-white shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-blue-600">
-          EShop
+          DUYLONG SHOP
         </Link>
         
         <Menu mode="horizontal" className="flex-1 justify-center border-0">
